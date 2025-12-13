@@ -2,7 +2,7 @@
 
 **FlowDown** is a beautiful, modern, and cross-platform video downloader app. It allows you to download videos from YouTube, Twitter (X), and many other platforms with a simple paste of a link.
 
-![App Screenshot](https://via.placeholder.com/800x500?text=FlowDown+Screenshot+Placeholder)
+![FlowDown App Screenshot](./screenshot.png)
 
 ## Features
 - 🎥 **Universal Support**: Downloads from YouTube, X (Twitter), and more.
