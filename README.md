@@ -17,6 +17,12 @@ You can download the latest version for your operating system from the [Releases
 - **Mac**: Download `FlowDown-MacOS.app` (inside the zip)
 - **Linux**: Download `FlowDown-Linux`
 
+## Support the Project ☕
+
+If you find FlowDown useful and want to support its development, consider buying me a coffee! Your support helps me maintain the project and add new features.
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/miraj0072004)
+
 ## Development
 To run this locally:
 
